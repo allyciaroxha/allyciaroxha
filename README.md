@@ -1,36 +1,33 @@
-# Hey, I'm Allycia Rocha 
+# Hi, I'm Allycia Rocha
 
-### Overview
-🎓 I'm a **Computer Science student** at the **Federal University of Piauí (UFPI)**.  
-💻 Passionate about **Web and Mobile Development**, **Deep Learning**, and **Computer Vision**.  
-🌱 Currently working as a **Front-end Developer at MedSafe Brasil**.
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/> Overview <span style="background-color:#C9D1D9; color:#000; padding:3px 10px; border-radius:5px; font-weight:bold;">ALLYCIAROCHA</span>
+
+I’m a **Computer Science student** at the [Federal University of Piauí (UFPI)](https://ufpi.br).  
+💻 Currently working as a **Front-end Developer** at **MedSafe Brasil**.  
+🧠 Passionate about **Web and Mobile Development**, **Deep Learning**, and **Computer Vision**.  
+🌱 Previously worked on a **research project involving AI for medical image segmentation**.
 
 ---
 
-### Skills
+## 🧠 Skills
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-  <!-- Ferramentas -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
 </p>
 
 ---
 
-### 📫 Contact me
+## 📫 Contact me
 <p align="left">
-  <a href="https://www.linkedin.com/in/allyciaroxha" target="_blank">
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:allyciaroxha@gmail.com">
+  <a href="mailto:seuemail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://discordapp.com/users/seuID" target="_blank">
