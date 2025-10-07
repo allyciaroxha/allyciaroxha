@@ -1,18 +1,16 @@
 # Hi, I'm Allycia Rocha
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> **Overview** <kbd>ALLYCIAROCHA</kbd>
+<img src="https://img.shields.io/static/v1?label=Overview&message=ALLYCIAROXHA&color=D5E7F2&style=for-the-badge&logo=GitHub">
 
-I'm a **Computer Science student** at the [Federal University of Piauí (UFPI)](https://ufpi.br).
+💻 I'm a **Computer Science student** at the [Federal University of Piauí](https://ufpi.br/).
 
-💻 Currently working as a **Front-end Developer** at **MedSafe Brasil**.
+Currently working as a **Front-end Developer** at **MedSafe Brasil**.
 
-🧠 Passionate about **Web and Mobile Development**, **Deep Learning**, and **Computer Vision**.
-
-🌱 Previously worked on a **research project involving AI for medical image segmentation**.
+Passionate about **Web and Mobile Development**, **Deep Learning**, and **Computer Vision**.
 
 ---
 
-## 🧠 Skills
+## Skills
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
@@ -26,13 +24,13 @@ I'm a **Computer Science student** at the [Federal University of Piauí (UFPI)](
 
 ---
 
-## 📫 Contact me
+## Contact me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/allyciaroxha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:allyciaroxha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://discordapp.com/users/seuID" target="_blank">
