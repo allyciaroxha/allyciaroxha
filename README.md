@@ -4,7 +4,7 @@
 
 💻 I'm a **Computer Science student** at the [Federal University of Piauí](https://ufpi.br/).
 
-Currently working as a **Front-end Developer** at **MedSafe Brasil**.
+Currently working as a **Software Developer Intern** at **CI&T**.
 
 Background in **Deep Learning** and **Computer Vision**, with a current focus on **Data Analysis** and **Data Engineering**.
 
